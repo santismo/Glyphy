@@ -1,1 +1,1 @@
-{"name":"Glyphy","short_name":"Glyphy","start_url":"./index.html","display":"standalone","background_color":"#101217","theme_color":"#101217","icons":[]}
+{"name":"Glyphy","short_name":"Glyphy","start_url":"./index.html","display":"standalone","background_color":"#101217","theme_color":"#101217","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
